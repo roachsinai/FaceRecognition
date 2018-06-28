@@ -1,5 +1,5 @@
 # FaceRecognition
-My small step into face recognition field
+My small step into the face recognition field
 
 I will describe how to handle this problem from scratch as following:
 
